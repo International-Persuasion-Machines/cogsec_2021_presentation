@@ -1,0 +1,4 @@
+selenium==3.141.0
+selenium-stealth==1.0.6
+selenium_wire==2.1.2
+requests==2.24.0

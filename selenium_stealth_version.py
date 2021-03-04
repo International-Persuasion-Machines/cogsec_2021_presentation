@@ -1,5 +1,5 @@
 import sys
-from selenium import webdriver
+from seleniumwire import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium_stealth import stealth
 name = sys.argv[1]
